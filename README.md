@@ -23,7 +23,7 @@ Can take multiple lines of JSON at once, from file or strings.
 Download
 ----------
 The current version of SparcerParser can be accessed from
- https://github.com/sivash/JSONProject
+ https://github.com/sivash/JSONSparcerParser
 
 Documentation
 ----------

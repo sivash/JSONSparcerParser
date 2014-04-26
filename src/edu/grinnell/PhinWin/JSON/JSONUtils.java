@@ -497,7 +497,7 @@ public class JSONUtils
                   } // if object
               } // if after a :
           } // for parsing input
-      }
+      }// try
     catch (Exception e)
       {
         throw new Exception("Input " + str + " is not a proper object.");

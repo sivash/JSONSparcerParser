@@ -1,11 +1,11 @@
 JSONSparcerParser
 =================
 README
-This is the readme for Version .1 of The SparcerParser
+This is the readme for Version .1 of The JSONSparcerParser
 
 Version Notes
 ----------
-.01 -> Initial release of The SparcerParser Library
+.01 -> Initial release of The JSONSparcerParser Library
 
 Purpose
 ----------
@@ -22,7 +22,7 @@ Can take multiple lines of JSON at once, from file or strings.
 
 Download
 ----------
-The current version of SparcerParser can be accessed from
+The current version of JSONSparcerParser can be accessed from
  https://github.com/sivash/JSONSparcerParser
 
 Documentation
@@ -31,7 +31,7 @@ JavaDoc documentation for each menthod can be found within the library's .java f
 
 How to Use
 ----------
-Import the SparcerParser library to gain access to its methods.
+Import the JSONSparcerParser library to gain access to its methods.
 To parse a string of JSON into a java object, use parse(String str)
 To parse a Java Object into a string of JSON, use toJsonString (Object obj)
 To parse JSON from a file, use parseFile (String Filename)
@@ -42,7 +42,7 @@ Developement
 ----------
 The SparcerParser was developed by Phineas Schlossberg and Ashwin
 Sivaramakrishnan.
-The SparcerParser is protected under the GPL v2 License
+The JSONSparcerParser is protected under the GPL v2 License
 
 Contact
 ----------

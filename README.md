@@ -1,15 +1,15 @@
-JSONSparcerParser
+JSONSparserParser
 =================
 README
-This is the readme for Version .1 of The JSONSparcerParser
+This is the readme for Version .1 of The JSONSparserParser
 
 Version Notes
 ----------
-.01 -> Initial release of The JSONSparcerParser Library
+.01 -> Initial release of The JSONSparserParser Library
 
 Purpose
 ----------
-SparcerParser is a JSON Parser/Unparser library. It's primary capabilities are too
+SparserParser is a JSON Parser/Unparser library. It's primary capabilities are too
 turn a Java Object into a string of JSON, or take a string of JSON and
 turn it into a Java Object.
 
@@ -22,7 +22,7 @@ Can take multiple lines of JSON at once, from file or strings.
 
 Download
 ----------
-The current version of JSONSparcerParser can be accessed from
+The current version of JSONSparserParser can be accessed from
  https://github.com/sivash/JSONSparcerParser
 
 Documentation
@@ -31,7 +31,7 @@ JavaDoc documentation for each menthod can be found within the library's .java f
 
 How to Use
 ----------
-Import the JSONSparcerParser library to gain access to its methods.
+Import the JSONSparserParser library to gain access to its methods.
 To parse a string of JSON into a java object, use parse(String str)
 To parse a Java Object into a string of JSON, use toJsonString (Object obj)
 To parse JSON from a file, use parseFile (String Filename)
@@ -40,9 +40,9 @@ For additional information check in-file documentation.
 
 Developement
 ----------
-The SparcerParser was developed by Phineas Schlossberg and Ashwin
+The SparserParser was developed by Phineas Schlossberg and Ashwin
 Sivaramakrishnan.
-The JSONSparcerParser is protected under the GPL v2 License
+The JSONSparserParser is protected under the GPL v2 License
 
 Contact
 ----------
